@@ -15,16 +15,16 @@
 ***Example Input:***\
 input1.txt\
 ***Example Contents of input1.txt:***\
-triangle, 12.2, 6.0
-rectangle, 5.2, 8.3
-sqaure, 4.4
-rectangle, 9.3, 3.9
-square, 8.1
-triangle 9.0, 3.0
-***Example Output:***
-triangle: 36.60
-rectangle: 43.16
-sqaure: 19.36
-rectangle: 36.27
-square: 65.61
+triangle, 12.2, 6.0\
+rectangle, 5.2, 8.3\
+sqaure, 4.4\
+rectangle, 9.3, 3.9\
+square, 8.1\
+triangle 9.0, 3.0\
+***Example Output:***\
+triangle: 36.60\
+rectangle: 43.16\
+sqaure: 19.36\
+rectangle: 36.27\
+square: 65.61\
 triangle: 13.50
