@@ -16,17 +16,21 @@
 ***Example Input:***\
 input1.txt\
 ***Example Contents of input1.txt:***\
-6\
+8\
 triangle, 12.2, 6.0\
+circle, 5.3\
 rectangle, 5.2, 8.3\
-sqaure, 4.4\
+square, 4.4\
+circle, 3.5\
 rectangle, 9.3, 3.9\
 square, 8.1\
-triangle 9.0, 3.0\
+triangle, 9.0, 3.0\
 ***Example Output:***\
 triangle: 36.60\
+circle: 88.25\
 rectangle: 43.16\
 sqaure: 19.36\
+circle: 38.48\
 rectangle: 36.27\
 square: 65.61\
 triangle: 13.50
