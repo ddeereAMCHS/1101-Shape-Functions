@@ -15,6 +15,7 @@
 ***Example Input:***\
 input1.txt\
 ***Example Contents of input1.txt:***\
+6\
 triangle, 12.2, 6.0\
 rectangle, 5.2, 8.3\
 sqaure, 4.4\
