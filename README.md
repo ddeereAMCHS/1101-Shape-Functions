@@ -29,7 +29,7 @@ triangle, 9.0, 3.0\
 triangle: 36.60\
 circle: 88.25\
 rectangle: 43.16\
-sqaure: 19.36\
+square: 19.36\
 circle: 38.48\
 rectangle: 36.27\
 square: 65.61\
