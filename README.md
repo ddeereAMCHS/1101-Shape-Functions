@@ -1,6 +1,6 @@
 # Shape Functions
 
-## Due: Thur 1/26 at 11:59 PM
+## Due: Thur 1/25 at 11:59 PM
 
 - Create a program called `ShapeFunctions.java`
 - Write a function that returns the area of a triangle given the base and the height
