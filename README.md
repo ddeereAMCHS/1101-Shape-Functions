@@ -3,10 +3,10 @@
 ## Due: Thur 1/25 at 11:59 PM
 
 - Create a program called `ShapeFunctions.java`
-- Write a function that returns the area of a triangle given the base and the height
-- Write a function that returns the area of a rectangle given the length and the width
-- Write a function that returns the area of a square given the length of one side
-- Write a function that returns the area of a circle given the radius
+- Write a static function that returns the area of a triangle given the base and the height
+- Write a static function that returns the area of a rectangle given the length and the width
+- Write a static function that returns the area of a square given the length of one side
+- Write a static function that returns the area of a circle given the radius
 - In the main method:
   - Prompt the user for a filename
   - The first line in the file contains the number of lines you will read in
